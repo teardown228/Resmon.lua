@@ -1,6 +1,5 @@
 --ResorceMonitor.lua 
 --By Kirgiz0_0
-print("resmon is injecting")
 
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
